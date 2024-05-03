@@ -2,56 +2,60 @@
     {
         "id": 123456789,
         "title": "The Mystery of the Hidden Treasure",
-        "cover_img": "mystery_treasure.jpg",
+        "cover_img": "https://imgbb.host/images/LSX6Q.png",
         "author": "Samantha Black",
-        "author_img": "author_samantha.jpg",
+        "author_img": "https://imgbb.host/images/LThnZ.png",
         "posted_date": "2024-04-15",
         "post_reading_time": 10,
         "hash_tag": "#mystery #adventure #fiction",
-        "mark_read": false
+        "mark_read": "Mark as read"
     },
     {
         "id": 987654321,
         "title": "Cooking Delights: A Culinary Journey",
-        "cover_img": "cooking_delights.jpg",
+        "cover_img": "https://imgbb.host/images/LSUwe.png",
         "author": "Chef Michael Smith",
-        "author_img": "chef_michael.jpg",
+        "author_img": "https://imgbb.host/images/LT512.jpeg",
         "posted_date": "2024-04-20",
         "post_reading_time": 15,
         "hash_tag": "#cooking #recipes #foodie",
-        "mark_read": true
+        "mark_read": "Mark as read"
     },
     {
         "id": 456123789,
         "title": "Exploring the Cosmos: Beyond the Stars",
-        "cover_img": "cosmos_exploration.jpg",
+        "cover_img": "https://imgbb.host/images/LSPP9.jpeg",
         "author": "Dr. Emily White",
-        "author_img": "dr_emily.jpg",
+        "author_img": "https://imgbb.host/images/LTSEW.jpeg",
         "posted_date": "2024-04-25",
         "post_reading_time": 20,
         "hash_tag": "#space #cosmos #exploration",
-        "mark_read": false
+        "mark_read": "Mark as read"
     },
     {
         "id": 789123456,
         "title": "Artificial Intelligence: A Futuristic Insight",
-        "cover_img": "ai_insight.jpg",
+        "cover_img": "https://imgbb.host/images/LSPP9.jpeg",
         "author": "John Watson",
-        "author_img": "john_watson.jpg",
+        "author_img": "https://imgbb.host/images/LTeNt.jpeg",
         "posted_date": "2024-04-10",
         "post_reading_time": 12,
         "hash_tag": "#AI #technology #future",
-        "mark_read": true
+        "mark_read": "Mark as read"
     },
     {
         "id": 321654987,
         "title": "Gardening 101: Tips for Green Thumbs",
-        "cover_img": "gardening_tips.jpg",
+        "cover_img": "https://imgbb.host/images/LSX6Q.png",
         "author": "Alice Green",
-        "author_img": "alice_green.jpg",
+        "author_img": "https://imgbb.host/images/LThnZ.png",
         "posted_date": "2024-04-30",
         "post_reading_time": 18,
         "hash_tag": "#gardening #tips #green",
-        "mark_read": false
+        "mark_read": "Mark as read"
     }
 ]
+
+
+
+

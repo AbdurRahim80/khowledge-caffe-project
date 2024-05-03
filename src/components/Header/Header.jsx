@@ -3,7 +3,7 @@ import profile from '../../assets/profile/profile.png'
 export default function Header() {
     return (
         <div>
-            <div className='flex justify-between items-center mx-20 mt-7'>
+            <div className='flex justify-between items-center mx-20 mt-7 border-b-2 p-1'>
                 <h1 className='text-3xl font-bold'>Khowledge Caffe</h1>
                 <img src={profile} alt="" />
             </div>
